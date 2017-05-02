@@ -10,6 +10,8 @@ end
 gem 'rails', '5.0.1'
 # bcrypt
 gem 'bcrypt', '3.1.11'
+# Use Faker to create sample users
+gem 'faker', '1.6.6'
 # Bootstrap
 gem 'bootstrap-sass', '3.3.6'
 # Use Puma as the app server
