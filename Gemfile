@@ -11,6 +11,9 @@ gem 'rails', '5.0.1'
 gem 'bcrypt', '3.1.11'
 # Use Faker to create sample users
 gem 'faker', '1.6.6'
+gem 'carrierwave',             '0.11.2'
+gem 'mini_magick',             '4.5.1'
+gem 'fog',                     '1.38.0'
 # Will paginate
 gem 'will_paginate', '3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
